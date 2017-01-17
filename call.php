@@ -19,7 +19,8 @@
 	//This does not have to be a real phone number, just in the correct format
 	$virtual_number = "441632960961";
 	//
-  $web_answer = "https://nexmo-community.github.io/ncco-examples/first_call_talk.json";
+  //$web_answer = "https://nexmo-community.github.io/ncco-examples/first_call_talk.json";
+  $web_answer = "https://github.com/gzdemon/nexmo/blob/master/call_talk.json";
   $web_event = "https://example.com/event";
 
 	if(empty($application_id)){
